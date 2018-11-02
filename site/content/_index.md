@@ -1,7 +1,9 @@
 ---
 title: "JSサポート株式会社"
 subtitle: Support sustainable farming while enjoying a cup
-logo-image: /img/home-jumbotron.jpg
+main:
+  alt: aaa
+  image: img/aaa.jpg
 business:
   heading: Great coffee with no compromises
   image1:
