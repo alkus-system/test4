@@ -37,11 +37,12 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Text3", name: "text3", widget: "text"}]}
           - {label: "Subsidy", name: subsidy, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Products", name: products, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Values", name: "values", widget: "object", fields: [
+          - {label: "company", name: company, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Contact", name: "contact", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
       - file: "site/content/contact/_index.md"
