@@ -22,5 +22,10 @@ company:
 contact:
   heading: "お問い合わせ"
   text: "助成金に関してのご不明点、ご質問などがあれば下記のフォームよりお気軽に連絡ください。"
+  contact_entries:
+    - heading: Location
+      text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    - heading: Working hours
+      text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
